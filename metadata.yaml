@@ -1,0 +1,33 @@
+_repo: More-Mittens--with-The-Doll-s-Wedding-and-Other-Stories--13-Being-the-third-book-of-the-serie__33191
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33191-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fanny, Aunt
+    aliases:
+    - Barrow, Frances Elizabeth
+    - Aunt Fanny
+    - Mease, Frances Elizabeth
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '33364'
+    url: http://www.gutenberg.org/2009/agents/33364
+description: ''
+gutenberg_issued: '2010-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: A letter from Aunt Fanny -- The doll's wedding -- What came of gipsying
+  -- The child heroine -- Aunt Mary -- Little Peter -- The story told to Willie.
+title: "More Mittens; with The Doll's Wedding and Other Stories\r\nBeing the third\
+  \ book of the series"
+url: http://www.gutenberg.org/ebooks/33191
